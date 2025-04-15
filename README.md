@@ -64,6 +64,7 @@ This project provides a comprehensive overview of Airbnb listings in New York Ci
 ## Author
 
 S. Vyshnavi  
+Email:sukhavasivyshnavi17@gmail.com
 
 
 
